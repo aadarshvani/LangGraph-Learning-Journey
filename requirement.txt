@@ -30,6 +30,7 @@ scikit-learn>=1.3.2
 matplotlib>=3.8.0
 seaborn>=0.13.0
 streamlit>=1.29.0
+grandalf
 
 # Natural Language Processing
 transformers>=4.36.0
