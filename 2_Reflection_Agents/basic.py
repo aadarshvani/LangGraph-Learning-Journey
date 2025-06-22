@@ -42,6 +42,6 @@ app = graph.compile()
 print(app.get_graph().draw_mermaid())
 app.get_graph().print_ascii()
 
-response = app.invoke(HumanMessage(content="The topic is AI taking over the content creation industry"))
+# response = app.invoke(HumanMessage(content="The topic is AI taking over the content creation industry"))
 
-print(response)
+# print(response)
